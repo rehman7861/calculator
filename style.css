@@ -1,0 +1,32 @@
+.calculator{
+    width: 250px;
+    padding: 30px;
+    margin:90px;
+    scrollbar-darkshadow-color: black;
+    
+    background:grey
+    border-radius: 20px;
+    
+}
+.calculator input{
+    padding: 30px;
+    width: 238px;
+    background-color: white;
+    
+   
+}
+
+.btnBox{
+    display: flex;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.btn{
+    padding: 21px;
+    margin: 5px;
+    border-radius: 70px;
+}
+#result{
+    border-radius:10px ;
+}
